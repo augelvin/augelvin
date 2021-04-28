@@ -1,8 +1,8 @@
 👋 Hi, I’m @augelvin
 
-📖 I’m a Mechanical Engineering student at OSU. 
+📖 I’m a Mechanical Engineering student at OSU. Looking for an internship/entry level mechanical engineer full time position in the electric vehicle and/or renewable energy industry.
 
-📫 How to reach me ...
+📫 dermagaa@oregonstate.edu
 
 <!---
 augelvin/augelvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
